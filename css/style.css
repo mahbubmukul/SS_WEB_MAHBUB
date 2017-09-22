@@ -229,6 +229,14 @@ label {
 	width: 95%;
 }
 
+.bdy_help {
+    font-size: 11px;
+    max-width: 150px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
 .birthday_text{
     color: #1d2129;
     font-size: 18px;
